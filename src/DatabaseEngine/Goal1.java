@@ -91,7 +91,7 @@ public void aggregate() {
 	        System.out.println(m.group());
 }
 public void goal5() {
-	    String csvFile = "/home/sapient/Downloads/ipl.csv";
+	    String csvFile = "ipl.csv";
        BufferedReader br = null;
        String csvSplit = ",";
        String line = "";

@@ -4,7 +4,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 public class Goal3 {
 	public void goalDatatypes() {
-	       String csvFile = "/home/sapient/Downloads/ipl.csv";
+	       String csvFile = "ipl.csv";
 	        BufferedReader br = null;
 	        String csvSplitBy = ",";
 
